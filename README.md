@@ -13,7 +13,7 @@ A lightweight starter template for modern front-end projects — featuring **Jav
 
 ### 1. Clone this template
 Click **“Use this template”** on the repo page or run manually:
-git clone https://github.com/YOUR-USERNAME/js-tailwind-template.git new-project
+git clone https://github.com/dxlefourtwenty/js-tailwind-template.git new-project
 cd new-project
 
 ### 2. Install dependencies
