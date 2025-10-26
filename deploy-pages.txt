@@ -7,7 +7,7 @@ To deploy to github pages, run:
 3. git status
   -- check file status
 
-4. git checkout gh pages && git merge main --no-edit
+4. git checkout gh-pages && git merge main --no-edit
 
 5. git add dist -f && git commit -m 'Deployment Commit'
 
